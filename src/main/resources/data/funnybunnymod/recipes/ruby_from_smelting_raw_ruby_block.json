@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 3.0,
+  "group": "ruby",
+  "ingredient": {
+    "item": "funnybunnymod:raw_ruby_block"
+  },
+  "result": "funnybunnymod:ruby"
+}
