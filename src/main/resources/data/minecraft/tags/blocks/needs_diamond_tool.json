@@ -1,0 +1,14 @@
+{
+  "values": [
+    "funnybunnymod:sapphire_block",
+    "funnybunnymod:raw_sapphire_block",
+    "funnybunnymod:raw_ruby_block",
+    "funnybunnymod:ruby_block",
+
+    "funnybunnymod:ruby_ore",
+    "funnybunnymod:deepslate_ruby_ore",
+
+    "funnybunnymod:sapphire_ore",
+    "funnybunnymod:deepslate_sapphire_ore"
+  ]
+}

@@ -20,15 +20,33 @@ public class BunnyCreativeModeTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(BunnyItems.RUBY.get()))
                     .title(Component.translatable("creativetab.bunny_tab"))
                     .displayItems((pParameters, pOutput) -> {
+                        //items
                         pOutput.accept(BunnyItems.SAPPHIRE.get());
                         pOutput.accept(BunnyItems.RAW_SAPPHIRE.get());
                         pOutput.accept(BunnyItems.RAW_RUBY.get());
                         pOutput.accept(BunnyItems.RUBY.get());
+                        pOutput.accept(BunnyItems.METAL_DETECTOR.get());
+                        //bnuy
                         pOutput.accept(Items.RABBIT_SPAWN_EGG);
+                        //refined blocks
                         pOutput.accept(BunnyBlocks.SAPPHIRE_BLOCK.get());
                         pOutput.accept(BunnyBlocks.RUBY_BLOCK.get());
+                        //raw blocks
                         pOutput.accept(BunnyBlocks.RAW_RUBY.get());
                         pOutput.accept(BunnyBlocks.RAW_SAPPHIRE.get());
+                        pOutput.accept(BunnyBlocks.SoundBlock.get());
+                        //ores
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_ORE.get());
+                        pOutput.accept(BunnyBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
+                        pOutput.accept(BunnyBlocks.NETHER_SAPPHIRE_ORE.get());
+                        pOutput.accept(BunnyBlocks.END_SAPPHIRE_ORE.get());
+
+                        pOutput.accept(BunnyBlocks.RUBY_ORE.get());
+                        pOutput.accept(BunnyBlocks.DEEPSLATE_RUBY_ORE.get());
+                        pOutput.accept(BunnyBlocks.NETHER_RUBY_ORE.get());
+                        pOutput.accept(BunnyBlocks.END_RUBY_ORE.get());
+
+
                         ;
                     })
                     .build());

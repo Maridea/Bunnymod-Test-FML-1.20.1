@@ -4,10 +4,23 @@
   "item.funnybunnymod.ruby": "Ruby",
   "item.funnybunnymod.raw_ruby": "Raw Ruby",
 
-  "creativetab.bunny_tab": "Bunny Tutorial Tab",
+  "item.funnybunnymod.metal_detector":"Metal Detector",
 
   "block.funnybunnymod.ruby_block": "Block of Ruby",
   "block.funnybunnymod.sapphire_block":"Block of Sapphire",
-  "block.funnybunnymod.raw_ruby_block":"Ruby Ore",
-  "block.funnybunnymod.raw_sapphire_block":"Sapphire Ore"
+  "block.funnybunnymod.raw_ruby_block":"Block of Raw Ruby",
+  "block.funnybunnymod.raw_sapphire_block":"Block of Raw Sapphire",
+
+  "block.funnybunnymod.sapphire_ore": "Sapphire Ore",
+  "block.funnybunnymod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.funnybunnymod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.funnybunnymod.end_sapphire_ore": "End Sapphire Ore",
+
+  "block.funnybunnymod.ruby_ore": "Ruby Ore",
+  "block.funnybunnymod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.funnybunnymod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.funnybunnymod.end_ruby_ore": "End Ruby Ore",
+  "block.funnybunnymod.sound_block": "Sound Block",
+
+  "creativetab.bunny_tab": "Bunny Tutorial Tab"
 }
