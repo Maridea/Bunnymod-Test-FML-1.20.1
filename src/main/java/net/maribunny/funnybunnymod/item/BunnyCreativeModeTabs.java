@@ -1,5 +1,6 @@
 package net.maribunny.funnybunnymod.item;
 
+import net.maribunny.funnybunnymod.block.BunnyBlocks;
 import net.maribunny.funnybunnymod.funnybunnymod;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -24,6 +25,11 @@ public class BunnyCreativeModeTabs {
                         pOutput.accept(BunnyItems.RAW_RUBY.get());
                         pOutput.accept(BunnyItems.RUBY.get());
                         pOutput.accept(Items.RABBIT_SPAWN_EGG);
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_BLOCK.get());
+                        pOutput.accept(BunnyBlocks.RUBY_BLOCK.get());
+                        pOutput.accept(BunnyBlocks.RAW_RUBY.get());
+                        pOutput.accept(BunnyBlocks.RAW_SAPPHIRE.get());
+                        ;
                     })
                     .build());
 

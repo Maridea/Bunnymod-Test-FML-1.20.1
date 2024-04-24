@@ -1,6 +1,7 @@
 package net.maribunny.funnybunnymod;
 
 import com.mojang.logging.LogUtils;
+import net.maribunny.funnybunnymod.block.BunnyBlocks;
 import net.maribunny.funnybunnymod.item.BunnyCreativeModeTabs;
 import net.maribunny.funnybunnymod.item.BunnyItems;
 import net.minecraft.client.Minecraft;
@@ -31,7 +32,11 @@ public class funnybunnymod
 
     public funnybunnymod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        // Modded content registers, (Blocks, Items, Mobs maybe?)
         BunnyItems.register(modEventBus);
+        BunnyBlocks.register(modEventBus);
+        //
         BunnyCreativeModeTabs.register(modEventBus);
 
 

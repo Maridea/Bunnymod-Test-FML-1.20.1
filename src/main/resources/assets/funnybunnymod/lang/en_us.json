@@ -3,5 +3,11 @@
   "item.funnybunnymod.raw_sapphire": "Raw Sapphire",
   "item.funnybunnymod.ruby": "Ruby",
   "item.funnybunnymod.raw_ruby": "Raw Ruby",
-  "creativetab.bunny_tab": "Bunny Tutorial Tab"
+
+  "creativetab.bunny_tab": "Bunny Tutorial Tab",
+
+  "block.funnybunnymod.ruby_block": "Block of Ruby",
+  "block.funnybunnymod.sapphire_block":"Block of Sapphire",
+  "block.funnybunnymod.raw_ruby_block":"Ruby Ore",
+  "block.funnybunnymod.raw_sapphire_block":"Sapphire Ore"
 }
