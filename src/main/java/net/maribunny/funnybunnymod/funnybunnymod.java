@@ -1,7 +1,11 @@
 package net.maribunny.funnybunnymod;
 
 import com.mojang.logging.LogUtils;
+import net.maribunny.funnybunnymod.item.BunnyCreativeModeTabs;
+import net.maribunny.funnybunnymod.item.BunnyItems;
 import net.minecraft.client.Minecraft;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -27,6 +31,9 @@ public class funnybunnymod
 
     public funnybunnymod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        BunnyItems.register(modEventBus);
+        BunnyCreativeModeTabs.register(modEventBus);
+
 
         modEventBus.addListener(this::commonSetup);
 
@@ -46,6 +53,13 @@ public class funnybunnymod
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
+
+    if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+        event.accept(BunnyItems.SAPPHIRE);
+        event.accept(BunnyItems.RAW_SAPPHIRE);
+        event.accept(BunnyItems.RUBY);
+        event.accept(BunnyItems.RAW_RUBY);
+    }
 
     }
 
