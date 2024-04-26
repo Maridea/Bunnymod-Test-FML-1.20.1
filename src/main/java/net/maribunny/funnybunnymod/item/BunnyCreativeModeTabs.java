@@ -26,6 +26,7 @@ public class BunnyCreativeModeTabs {
                         pOutput.accept(BunnyItems.RAW_RUBY.get());
                         pOutput.accept(BunnyItems.RUBY.get());
                         pOutput.accept(BunnyItems.METAL_DETECTOR.get());
+                        pOutput.accept(BunnyItems.PINE_CONE.get());
                         //bnuy
                         pOutput.accept(Items.RABBIT_SPAWN_EGG);
                         //refined blocks
@@ -45,7 +46,8 @@ public class BunnyCreativeModeTabs {
                         pOutput.accept(BunnyBlocks.DEEPSLATE_RUBY_ORE.get());
                         pOutput.accept(BunnyBlocks.NETHER_RUBY_ORE.get());
                         pOutput.accept(BunnyBlocks.END_RUBY_ORE.get());
-
+                        // New stuff like Food
+                        pOutput.accept(BunnyItems.STRAWBERRY.get());
 
                         ;
                     })

@@ -22,5 +22,8 @@
   "block.funnybunnymod.end_ruby_ore": "End Ruby Ore",
   "block.funnybunnymod.sound_block": "Sound Block",
 
+  "item.funnybunnymod.strawberry": "Strawberry",
+  "item.funnybunnymod.pine_cone": "Pine Cone",
+
   "creativetab.bunny_tab": "Bunny Tutorial Tab"
 }
