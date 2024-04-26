@@ -25,5 +25,8 @@
   "item.funnybunnymod.strawberry": "Strawberry",
   "item.funnybunnymod.pine_cone": "Pine Cone",
 
+  "tooltip.funnybunnymod.metal_detector.tooltip": "Finds valuables underground!",
+  "tooltip.funnybunnymod.sound_block.tooltip": "Makes sweet sounds when right clicked!",
+
   "creativetab.bunny_tab": "Bunny Tutorial Tab"
 }
