@@ -1,0 +1,16 @@
+{
+  "values": [
+    "funnybunnymod:sapphire_block",
+    "funnybunnymod:raw_sapphire_block",
+    "funnybunnymod:raw_ruby_block",
+    "funnybunnymod:sapphire_ore",
+    "funnybunnymod:nether_sapphire_ore",
+    "funnybunnymod:deepslate_sapphire_ore",
+    "funnybunnymod:end_sapphire_ore",
+    "funnybunnymod:ruby_ore",
+    "funnybunnymod:deepslate_ruby_ore",
+    "funnybunnymod:nether_ruby_ore",
+    "funnybunnymod:end_ruby_ore",
+    "funnybunnymod:sound_block"
+  ]
+}

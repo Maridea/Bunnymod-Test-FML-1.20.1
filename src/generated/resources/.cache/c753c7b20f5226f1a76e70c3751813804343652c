@@ -1,0 +1,7 @@
+// 1.20.1	2024-05-05T15:21:03.4973005	Tags for minecraft:block mod id funnybunnymod
+8c91e673cf3302ca971c2805955d14ab1a4eb2ec data/forge/tags/blocks/needs_netherite_tool.json
+ee876598dc0a6f6f55ce81d7ec9682857275e719 data/funnybunnymod/tags/blocks/metal_detector_valuables.json
+4600e8278272a2b14239d0db60fde2b8bba6f8ed data/minecraft/tags/blocks/mineable/pickaxe.json
+5dd6427cd23a3e99357bead9f850893eda304083 data/minecraft/tags/blocks/needs_diamond_tool.json
+a797ccb02f097856dd4b0bc28e3f0c2b7fd2f174 data/minecraft/tags/blocks/needs_iron_tool.json
+5f272b2316668efa0e84afb628956b3d0c3e019d data/minecraft/tags/blocks/needs_stone_tool.json
