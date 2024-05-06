@@ -6,6 +6,7 @@ import net.maribunny.funnybunnymod.util.BunnyTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
 import net.minecraft.tags.BlockTags;
+import net.minecraft.world.level.block.Block;
 import net.minecraftforge.common.Tags;
 import net.minecraftforge.common.data.BlockTagsProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
@@ -51,6 +52,15 @@ public class BunnyBlockTagGenerator extends BlockTagsProvider {
                         );
         this.tag(Tags.Blocks.NEEDS_NETHERITE_TOOL)
                 .add(BunnyBlocks.END_SAPPHIRE_ORE.get()
+                );
+        this.tag(BlockTags.FENCES)
+                .add(BunnyBlocks.SAPPHIRE_FENCE.get()
+                );
+        this.tag(BlockTags.FENCE_GATES)
+                .add(BunnyBlocks.SAPPHIRE_FENCE_GATE.get()
+                );
+        this.tag(BlockTags.WALLS)
+                .add(BunnyBlocks.SAPPHIRE_WALL.get()
                 );
     }
 }

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "funnybunnymod:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "funnybunnymod:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "funnybunnymod:block/sapphire_slab_top"
+    }
+  }
+}

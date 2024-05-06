@@ -1,4 +1,4 @@
-// 1.20.1	2024-05-05T15:21:03.4993017	Loot Tables
+// 1.20.1	2024-05-05T16:46:31.519401	Loot Tables
 986d62a22cb691d6387282f3ff7cc5d51da2e6a7 data/funnybunnymod/loot_tables/blocks/deepslate_ruby_ore.json
 81861363bada97a60dd301c9fab14f5cbfb90071 data/funnybunnymod/loot_tables/blocks/deepslate_sapphire_ore.json
 43412df7d262814d8db1840c98c70ee892cf6982 data/funnybunnymod/loot_tables/blocks/end_ruby_ore.json
@@ -10,5 +10,14 @@ f6ac8a50cbf1dad6115e532efaeebd482f5e699e data/funnybunnymod/loot_tables/blocks/r
 06348918810591b6eb07e43dd206e98a3a447a2c data/funnybunnymod/loot_tables/blocks/ruby_block.json
 10be18f2f04101b935c96fc6f58b77d350b989bb data/funnybunnymod/loot_tables/blocks/ruby_ore.json
 805d6ab7c484f0a9b0fc437f4c2d9314104be090 data/funnybunnymod/loot_tables/blocks/sapphire_block.json
+87844b8ea8a09c506bd77c535e7208ffc06bd4d3 data/funnybunnymod/loot_tables/blocks/sapphire_button.json
+385067909b05414a409db4a0c8882070a95eb4e1 data/funnybunnymod/loot_tables/blocks/sapphire_door.json
+419de8152ffd6e162a891031b4893289e018f004 data/funnybunnymod/loot_tables/blocks/sapphire_fence.json
+35fc387ef6892da3dcf1d7d3988a0cd155a6d971 data/funnybunnymod/loot_tables/blocks/sapphire_fence_gate.json
 8b27ca29b15c5e01bcceb837ed17ff00aedbd9bd data/funnybunnymod/loot_tables/blocks/sapphire_ore.json
+7eee881e6b700679582f02dadab1fe54c06fa907 data/funnybunnymod/loot_tables/blocks/sapphire_pressure_plate.json
+890a0fb83e95a4f22aebc5b4d7f696a22fa1bcab data/funnybunnymod/loot_tables/blocks/sapphire_slab.json
+a698d1d1afa8a6e92f9e86756e0097cb3cad1fed data/funnybunnymod/loot_tables/blocks/sapphire_stairs.json
+a56678a1848944a447bef1c1bf2133f26797fa17 data/funnybunnymod/loot_tables/blocks/sapphire_trapdoor.json
+b03ff02f4d28696a33b5e3fb9c6fc0e4fae0f893 data/funnybunnymod/loot_tables/blocks/sapphire_wall.json
 4e97ff08dee8c72a53c1487d34e6bfd3d2d93b56 data/funnybunnymod/loot_tables/blocks/sound_block.json

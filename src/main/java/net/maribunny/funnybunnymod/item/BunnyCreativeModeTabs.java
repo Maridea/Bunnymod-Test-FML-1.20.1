@@ -32,6 +32,18 @@ public class BunnyCreativeModeTabs {
                         //refined blocks
                         pOutput.accept(BunnyBlocks.SAPPHIRE_BLOCK.get());
                         pOutput.accept(BunnyBlocks.RUBY_BLOCK.get());
+                        //sapphire extras
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_STAIRS.get());
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_SLAB.get());
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_BUTTON.get());
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_PRESSURE_PLATE.get());
+
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_FENCE.get());
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_FENCE_GATE.get());
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_WALL.get());
+
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_DOOR.get());
+                        pOutput.accept(BunnyBlocks.SAPPHIRE_TRAPDOOR.get());
                         //raw blocks
                         pOutput.accept(BunnyBlocks.RAW_RUBY.get());
                         pOutput.accept(BunnyBlocks.RAW_SAPPHIRE.get());

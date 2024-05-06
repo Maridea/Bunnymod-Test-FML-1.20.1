@@ -41,6 +41,19 @@ public class BunnyBlockLootTables extends BlockLootSubProvider {
                 block -> createOreDrop(BunnyBlocks.NETHER_RUBY_ORE.get(), BunnyItems.RAW_RUBY.get()));
         this.add(BunnyBlocks.END_RUBY_ORE.get(),
                 block -> createOreDrop(BunnyBlocks.END_RUBY_ORE.get(), BunnyItems.RAW_RUBY.get()));
+
+        this.dropSelf(BunnyBlocks.SAPPHIRE_STAIRS.get());
+        this.dropSelf(BunnyBlocks.SAPPHIRE_BUTTON.get());
+        this.dropSelf(BunnyBlocks.SAPPHIRE_PRESSURE_PLATE.get());
+        this.dropSelf(BunnyBlocks.SAPPHIRE_TRAPDOOR.get());
+        this.dropSelf(BunnyBlocks.SAPPHIRE_WALL.get());
+        this.dropSelf(BunnyBlocks.SAPPHIRE_FENCE.get());
+        this.dropSelf(BunnyBlocks.SAPPHIRE_FENCE_GATE.get());
+
+        this.add(BunnyBlocks.SAPPHIRE_SLAB.get(),
+                block -> createSlabItemTable(BunnyBlocks.SAPPHIRE_SLAB.get()));
+        this.add(BunnyBlocks.SAPPHIRE_DOOR.get(),
+                block -> createDoorTable(BunnyBlocks.SAPPHIRE_DOOR.get()));
     }
 
 

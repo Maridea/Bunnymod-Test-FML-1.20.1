@@ -1,8 +1,17 @@
-// 1.20.1	2024-05-05T15:21:03.5003035	Item Models: funnybunnymod
+// 1.20.1	2024-05-05T17:10:26.1482269	Item Models: funnybunnymod
 5eaad12895d54db00a43bf6cb00b29f54a0a3a6b assets/funnybunnymod/models/item/metal_detector.json
 5c1a95eb5c2a7e62d1282aef0d7038b9ca1bd312 assets/funnybunnymod/models/item/pine_cone.json
 a23d168d82b59d64de351310b773c1d5859e3200 assets/funnybunnymod/models/item/raw_ruby.json
 3847f3cb803f80eec10a15adad2a4b0fa412a3c1 assets/funnybunnymod/models/item/raw_sapphire.json
 e5fe83b0592bec46e29f6712e447e5157afdd9fe assets/funnybunnymod/models/item/ruby.json
 7d0587ab4c9e16408b13fe5cefd2bd3a4b138d55 assets/funnybunnymod/models/item/sapphire.json
+e11e75db0c8ad4880ea0cd6b19be13f2b86eb7a8 assets/funnybunnymod/models/item/sapphire_button.json
+7e84c3127f6281c0944dae9d40af1af0b4d7c733 assets/funnybunnymod/models/item/sapphire_door.json
+8e6c561a57e43f27c0aacbc05660f020856720fa assets/funnybunnymod/models/item/sapphire_fence.json
+f8976673c0f428dbd6e9e4cf7bdb9cdf046e3f54 assets/funnybunnymod/models/item/sapphire_fence_gate.json
+72bd1c656496bc1bc6be5fc743151e60c3b99f8f assets/funnybunnymod/models/item/sapphire_pressure_plate.json
+fbe9c12970120e38eaa8def33e9130ad6c205068 assets/funnybunnymod/models/item/sapphire_slab.json
+b93382021e478e1136fd3df865f8043ce773407b assets/funnybunnymod/models/item/sapphire_stairs.json
+a0c62bc7ebb1c2a6e646faf0568d8daf3eea19ef assets/funnybunnymod/models/item/sapphire_trapdoor.json
+3e843bdd78eb50ea0dbdffe31fd36d846abe4da5 assets/funnybunnymod/models/item/sapphire_wall.json
 ff1857e984de46f5d2a2971a1887e09565de0954 assets/funnybunnymod/models/item/strawberry.json

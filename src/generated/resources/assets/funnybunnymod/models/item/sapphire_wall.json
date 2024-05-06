@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "funnybunnymod:block/sapphire_block"
+  }
+}

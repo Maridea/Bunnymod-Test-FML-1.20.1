@@ -11,6 +11,16 @@
   "block.funnybunnymod.raw_ruby_block":"Block of Raw Ruby",
   "block.funnybunnymod.raw_sapphire_block":"Block of Raw Sapphire",
 
+  "block.funnybunnymod.sapphire_stairs":"Sapphire Stairs",
+  "block.funnybunnymod.sapphire_slab":"Sapphire Slab",
+  "block.funnybunnymod.sapphire_button":"Sapphire Button",
+  "block.funnybunnymod.sapphire_pressure_plate":"Sapphire Pressure Plate",
+  "block.funnybunnymod.sapphire_fence":"Sapphire Fence",
+  "block.funnybunnymod.sapphire_fence_gate":"Sapphire Fence Gate",
+  "block.funnybunnymod.sapphire_wall":"Sapphire Wall",
+  "block.funnybunnymod.sapphire_door":"Sapphire Door",
+  "block.funnybunnymod.sapphire_trapdoor":"Sapphire Trapdoor",
+
   "block.funnybunnymod.sapphire_ore": "Sapphire Ore",
   "block.funnybunnymod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
   "block.funnybunnymod.nether_sapphire_ore": "Nether Sapphire Ore",
